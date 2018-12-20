@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="IAryaTestcases" verbose="10">
+<test name="login" preserve-order="true">
+		<classes>
+			<class name="sapmle.App">
+				<methods>
+					<include name="main" />   
+				</methods>
+			</class>
+		</classes>
+	</test> 
+</suite>	
